@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stalwart-bounty-282114",
+  "private_key_id": "8fabc0767694e325f11a09ff1c41b092c17abaec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6Lw0alHvMk80J\nSP+iH2C084jqN269lxjxcplq7M6FwY5UcKotqabsoCEAnSD843zB7EoXqtUQHens\nKch+VKmSZS8bKHa3r99xz/VwJNLbNZEpxoVOutm4xxij+9BPjRev6iByfVN2PIM6\nsDM2JSNzCW/1XBxh5J97VKnmvOyQBxOLe+CKBABd5gvAORG5C3hBYBC8bimyiIaA\n6VIzTPIO4XeKrGBL1x2GdX7J1K7EUoHCoGBAWgUTi7lAJyeFNE2u1XZMxOB6/cIO\nbHhocP2AuN5n/dO48/ykht/zWgSZD2Zez4BpTpsPJbWmnst3GMzkUCAj0bMPw1Kv\nLgUHfsiPAgMBAAECggEAAKc9SF37MHJhguKTVB/8kWdoGb46SesHKlFcIUFk+0f4\n9MH3ycM6nVMpQl0/UOgkkiViU+qpush+amQnYT2PnVODgP51VpG4gBSsYKUtkQCf\n5+eD1ll+p8cwb45yWtXRxMGjDvEoDTPIWRSu1byAybaAJwH9zn0NbV5EP8hAwctq\n5vl3tp60/hSFKUx6xYoVnnNOQhHEwLDKn3rzTtj7L4kFz1Vuyu4fJgAe9j2i3yOi\n0QVA5zQEtR1rDxP4ER4BhmwUYuq3mtpvG3LuqBHW3USO2FWFjg6NxV082JXCWF66\nTrZRowx01lQyeHUJE2B6VK6oAoKXcq83SOP9rWidwQKBgQDx7DzFKcGAtNl/vSPP\nT3olT+F70XzHsq5TfcDnHPr7uUqgmxw7ifoUXfCYhFPU6wrr/kBjB2A5PvLCEKKv\nYuHiQVUP0Ld/r0eaipiilBwG16/5sKod8gHiA3SzVNytB2IAHgxERlC6LSueK+lf\n89jief3xJ2wWl9Ww63Ahpv7ELwKBgQDFBIHI6fPOOWsJw0d+aFlJCwRl04jmsoO/\nOtSgtx8ydP5naZGZFFLJpkiTfNDycOHYh5ly1gQlyifiWGUA+BYnSp3KcwOkVdyu\nO8ECKIVF0KzZWtEzNsP4hm0ce6/djFQy/DkRX69lYjq8C4zqYXfe9HZ3ZSvidnVA\nV/84gOxJoQKBgQCsiSM+Km2K8XA9HhOwAqrGeZYCzIEFm3WgrgspyQ1nAdsrd/RG\nsjzc0bKJ07ZGH+uGK6qX9ea2bSKNLXgZRZh72MRlpyF3uvaCTV5WdPMYHjOvDEQH\nX1Xgbz6Ht3o7HQzTsJpnBw8D+Lsm74JdoHeJ7h8iIk+APYF10DQEjCkemQKBgDyG\n4/B7n4FNtoqrSb2WBUghcFpwIHDvivYm9sfhOl5f/wB6OFbVHZIB2e4lvHOfJmNF\nVWkoQuHxN0ucaHthvDyZ+dwGdan5DvEgPm2RUVBfiZrFAdxACPjDI6ZKgX8I6502\nS7oAsXvuL6kxyzr+crs2U2be2Bqc1ezMnAYZ5X3BAoGAQhic+pTlc/hKJ7lsUtc9\nfDqUrViCpqa1lVajc+njHVDVyrx6ZuvI+O1lF4rsKdaE+6U4SPpmPpm1Gl9v+NID\nQlSOIoF1UQr2ATdf5LS8fL6ge32YuVsBQOTwCKjJS66Oxt86+SyMcV7zIRUAXa2T\npNCTMtZvaIFjmBqsQMewVLI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stalwart-bounty-282114@appspot.gserviceaccount.com",
+  "client_id": "107697821735911850788",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stalwart-bounty-282114%40appspot.gserviceaccount.com"
+}
