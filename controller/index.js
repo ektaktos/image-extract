@@ -36,7 +36,7 @@ module.exports = async (req, res) => {
 		const extensionName = path.extname(imagePath);
 		const imageBuffer = Buffer.from(imageFile, "base64");
 		
-        const imageUrl = await uploadImage('video-images1', imageBuffer, extensionName);
+        const imageUrl = await uploadImage('video-extract-images', imageBuffer, extensionName);
         fs.unlinkSync(imagePath);
 		return res.status(200).send({
 			status: true,

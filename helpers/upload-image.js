@@ -6,7 +6,7 @@ const keyFile = fs.readFileSync('./gcloud-key.json');
 const gcloudCredential = JSON.parse(keyFile);
 
 const storage = new Storage({
-	projectId: 'stalwart-bounty-282114',
+	projectId: 'abegtech',
 	credentials: gcloudCredential,
 });
 

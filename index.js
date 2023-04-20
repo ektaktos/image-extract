@@ -17,8 +17,8 @@ app.use('*', (req, res) => {
   res.status(404).json({ message: 'Route does not exist' });
 });
 
-app.set('port', 5000);
-app.listen(5000, () => {
+app.set('port', 6000);
+app.listen(6000, () => {
   console.log(`Listening on ${config.port}`);
 });
 
